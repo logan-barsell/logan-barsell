@@ -6,7 +6,7 @@
 - 🎨 Designing interfaces. 🛠️ Engineering APIs. 💾 Storing data like a pro.
 - 🔍 Debugger by day, Bug Slayer by night 🐞
 - ☕️ Powered by coffee, fueled by curiosity 💡
-- 👨‍💻 All of my projects are available at [https://loganbarsell.com/](https://loganbarsell.com/)
+- 👨‍💻 Portfolio available at [https://loganbarsell.com/](https://loganbarsell.com/)
 
 <h3 align="left">Connect with me on LinkedIn: <a href="https://linkedin.com/in/logan-barsell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-barsell" height="30" width="40" /></a></h3>
 
